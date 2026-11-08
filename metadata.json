@@ -1,0 +1,6 @@
+{
+  "name": "Amol Pharmacy Management",
+  "description": "Native Android & Material 3 pharmacy management system with POS, multi-batch inventory, supplier/customer ledgers, expiry delivery, and thermal printing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

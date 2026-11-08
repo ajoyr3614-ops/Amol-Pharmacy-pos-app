@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">অমল ফার্মেসি</string>
+    <string name="pos_sales">পিওএস / বিক্রয়</string>
+    <string name="medicine_product">ওষুধ / পণ্য</string>
+    <string name="purchase">ক্রয়</string>
+    <string name="stock_inventory">স্টক / ইনভেন্টরি</string>
+    <string name="customer">কাস্টমার</string>
+    <string name="supplier">সাপ্লায়ার</string>
+    <string name="sales_history">বিক্রয় ইতিহাস</string>
+    <string name="purchase_history">ক্রয় ইতিহাস</string>
+    <string name="returns">ফেরত / রিটার্ন</string>
+    <string name="expenses">খরচ / ব্যয়</string>
+    <string name="reports">রিপোর্ট</string>
+    <string name="barcode">বারকোড</string>
+    <string name="notifications">নোটিফিকেশন</string>
+    <string name="backup_restore">ব্যাকআপ ও রিস্টোর</string>
+    <string name="settings">সেটিংস</string>
+    <string name="expiry_delivery">মেয়াদোত্তীর্ণ ডেলিভারি</string>
+    <string name="medicine_order">ওষুধ অর্ডার</string>
+
+    <string name="today_sales">আজকের বিক্রয়</string>
+    <string name="today_purchase">আজকের ক্রয়</string>
+    <string name="today_expenses">আজকের খরচ</string>
+    <string name="total_profit">মোট লাভ</string>
+    <string name="total_customer_due">কাস্টমার বাকি</string>
+    <string name="total_supplier_due">সাপ্লায়ার দেনা</string>
+    <string name="total_customers">মোট কাস্টমার</string>
+    <string name="total_suppliers">মোট সাপ্লায়ার</string>
+    <string name="total_products">মোট ওষুধ</string>
+    <string name="low_stock">কম স্টক</string>
+    <string name="expiring_medicines">মেয়াদোত্তীর্ণ প্রায়</string>
+
+    <string name="return_disclaimer_bn">বিশেষ দ্রষ্টব্য: বিক্রিত ওষুধ ফেরত নেওয়া হয় না।</string>
+</resources>

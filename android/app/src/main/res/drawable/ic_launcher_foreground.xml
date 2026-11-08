@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.1"
+        android:scaleY="1.1"
+        android:translateX="-5.4"
+        android:translateY="-5.4">
+        <!-- Medical Cross Base -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M48,30h12v18h18v12h-18v18h-12v-18h-18v-12h18z" />
+        <!-- Inner Medical Cross Accent -->
+        <path
+            android:fillColor="#0D9488"
+            android:pathData="M51,33h6v17h17v6h-17v17h-6v-17h-17v-6h17z" />
+        <!-- Organic Green Leaf Accompanying the Cross -->
+        <path
+            android:fillColor="#34D399"
+            android:pathData="M66,32 C74,28 82,34 80,44 C76,52 64,52 60,48 C56,44 58,36 66,32 Z" />
+        <path
+            android:fillColor="#059669"
+            android:pathData="M64,36 C70,33 77,37 76,43 C72,48 64,47 62,44 Z" />
+        <!-- Leaf Vein -->
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round"
+            android:pathData="M62,46 C67,42 72,38 77,34" />
+    </group>
+</vector>

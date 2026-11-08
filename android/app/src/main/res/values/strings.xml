@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Amol Pharmacy</string>
+    <string name="pos_sales">POS / Sales</string>
+    <string name="medicine_product">Medicine / Product</string>
+    <string name="purchase">Purchase</string>
+    <string name="stock_inventory">Stock / Inventory</string>
+    <string name="customer">Customer</string>
+    <string name="supplier">Supplier</string>
+    <string name="sales_history">Sales History</string>
+    <string name="purchase_history">Purchase History</string>
+    <string name="returns">Return</string>
+    <string name="expenses">Expenses</string>
+    <string name="reports">Reports</string>
+    <string name="barcode">Barcode</string>
+    <string name="notifications">Notifications</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="settings">Settings</string>
+    <string name="expiry_delivery">Expiry Delivery</string>
+    <string name="medicine_order">Medicine Order</string>
+
+    <!-- Summaries -->
+    <string name="today_sales">Today\'s Sales</string>
+    <string name="today_purchase">Today\'s Purchase</string>
+    <string name="today_expenses">Today\'s Expenses</string>
+    <string name="total_profit">Total Profit</string>
+    <string name="total_customer_due">Total Customer Due</string>
+    <string name="total_supplier_due">Total Supplier Due</string>
+    <string name="total_customers">Total Customers</string>
+    <string name="total_suppliers">Total Suppliers</string>
+    <string name="total_products">Total Products</string>
+    <string name="low_stock">Low Stock</string>
+    <string name="expiring_medicines">Expiring Medicines</string>
+
+    <string name="return_disclaimer_bn">বিশেষ দ্রষ্টব্য: বিক্রিত ওষুধ ফেরত নেওয়া হয় না।</string>
+</resources>

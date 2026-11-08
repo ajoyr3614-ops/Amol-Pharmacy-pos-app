@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AmolPharmacy" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/teal_primary</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
